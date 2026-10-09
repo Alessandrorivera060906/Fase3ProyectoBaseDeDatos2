@@ -12,11 +12,11 @@ Esta fase implementa el flujo completo del estudiante en la plataforma: inscripc
 | 2 | 02_Fase2Procedimientos.sql | Crea los procedimientos y la vista de la Fase 2 |
 | 3 | 03_EduGT_Datos_Prueba.sql | Borra los datos existentes, reinicia los IDs e inserta los datos base |
 | 4 | 05_Datos_Prueba_Fase3.sql | Agrega los estudiantes, cursos, cohortes e inscripciones de la Fase 3 |
-| 5 | Proyecto BD II - Fase III - Script Completo.sql | Crea las funciones, procedimientos, vista e índice de la Fase 3, junto con sus pruebas |
+| 5 | Proyecto BD II - Fase III.sql | Crea las funciones, procedimientos, vista e índice de la Fase 3, junto con sus pruebas |
 
 ### Sobre el script 04
 
-04_Casos_de_Prueba.sql.sql no se utiliza en esta fase. Contiene las pruebas de la Fase 2 y se incluye únicamente como evidencia de esa entrega. No debe ejecutarse antes del script 05, porque crea registros que chocan con los IDs de los datos de Fase 3.
+04_Casos_de_Prueba.sql..sql no se utiliza en esta fase. Contiene las pruebas de la Fase 2 y se incluye únicamente como evidencia de esa entrega. No debe ejecutarse antes del script 05, porque crea registros que chocan con los IDs de los datos de Fase 3.
 
 ## Objetos de la Fase 3
 
